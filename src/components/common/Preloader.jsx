@@ -15,7 +15,7 @@ const Preloader = () => {
           transition={{ duration: 0.8, ease: "easeOut" }}
           className="text-4xl md:text-6xl font-bold gradient-text mb-4"
         >
-          ALEX RIVERA
+          M.KARIM
         </motion.h1>
       </div>
       <div className="w-48 h-1 bg-white/10 rounded-full overflow-hidden">
